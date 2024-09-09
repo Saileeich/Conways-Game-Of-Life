@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import *
 
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 600, 600
 CELL_SIZE = 10
 
 COL1 = (0, 0, 0)
